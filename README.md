@@ -1,6 +1,6 @@
 # Project_WebScrapper
   A Python-based web scraping application that collects product information, including categories, titles, and prices, from a specified website. It utilizes Selenium for browser automation, BeautifulSoup for parsing HTML content, and Pandas for data handling.
-    ## The technologies used
+## The technologies used
       Backend tools:
         1. Python: The primary programming language for building the scraper.
         2. Selenium: Automates browser interactions to dynamically load web content.
